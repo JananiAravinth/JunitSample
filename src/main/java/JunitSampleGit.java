@@ -18,5 +18,9 @@ public class JunitSampleGit {
 		System.out.println("Here Comes the Business Logics");
 	}
 	
+	@Test 
+	public void test2() {
+		System.out.println("Test 2");
+	}
 
 }
