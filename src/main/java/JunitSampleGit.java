@@ -22,5 +22,9 @@ public class JunitSampleGit {
 	public void test2() {
 		System.out.println("Test 2");
 	}
+	@Test
+	public void test3(){
+		System.out.println("Test 3");
+	}
 
 }
